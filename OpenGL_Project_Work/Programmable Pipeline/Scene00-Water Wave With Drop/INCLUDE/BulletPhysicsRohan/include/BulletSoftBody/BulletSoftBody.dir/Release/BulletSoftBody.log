@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/bullet3-2.89/src/BulletSoftBody/CMakeLists.txt
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  btDeformableBackwardEulerObjective.cpp
+  btDeformableBodySolver.cpp
+  btDeformableMultiBodyConstraintSolver.cpp
+  btDeformableContactProjection.cpp
+  btDeformableMultiBodyDynamicsWorld.cpp
+  btDeformableContactConstraint.cpp
+  Generating Code...
+  BulletSoftBody.vcxproj -> C:\bullet3-2.89\lib\Release\BulletSoftBody.lib

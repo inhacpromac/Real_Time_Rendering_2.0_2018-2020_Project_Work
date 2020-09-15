@@ -1,0 +1,2 @@
+rc .\SCENES\SCENE0\room_scene0_water_wave.rc
+cl.exe /EHsc /I .\include\glew\include /I .\include\BulletPhysicsRohan\include main.cpp .\SCENES\SCENE0\room_scene0_water_wave.res /link user32.lib gdi32.lib kernel32.lib /LIBPATH:.\include\glew\lib\Release\x64 /LIBPATH:.\include\BulletPhysicsRohan\lib /SUBSYSTEM:WINDOWS

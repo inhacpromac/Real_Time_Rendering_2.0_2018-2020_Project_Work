@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/bullet3-2.89/src/Bullet3Common/CMakeLists.txt
+  b3AlignedAllocator.cpp
+  b3Vector3.cpp
+  b3Logging.cpp
+  Generating Code...
+  Bullet3Common.vcxproj -> C:\bullet3-2.89\lib\Release\Bullet3Common.lib

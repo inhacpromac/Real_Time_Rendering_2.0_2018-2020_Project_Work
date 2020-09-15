@@ -1,0 +1,12 @@
+1.Water drop: 	Water drop is implemented by using Bullet Physics. Also, it contains 2 lights.
+		I. Bullet Physics is used to provide translation by giving gravity and mass values.
+		II. Scaling and sin() for Wobble Effect is used for Sphere to look like a drop.		
+		III. Lights used - Phong ADS light and diffuse light.
+ 
+2.Water Wave: 	Water wave is implemented on Mesh with Height Map and Normal Map using Frame Buffer Object. 
+		I. Force equation is used in Height Map calculation.
+		II. Normal Map is calculated as per Height Map texture.
+		III. To display drop on mesh, drop radius, position and height map are used.
+		IV. Above all texture calculations done in Frame Buffer Object. 
+		IV. "ASTROMEDICOMP" texture is attached to a quad.
+		V. Water mesh is placed on top of quad. Finally, we can see the wave because of Frame Buffer Object.

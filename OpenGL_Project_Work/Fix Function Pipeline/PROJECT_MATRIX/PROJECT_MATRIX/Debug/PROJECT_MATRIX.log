@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\RTR\PROJECT_MATRIX\PROJECT_MATRIX\PROJECT_MATRIX\Source.cpp(29,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\RTR\PROJECT_MATRIX\PROJECT_MATRIX\PROJECT_MATRIX\Source.cpp(274,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\RTR\PROJECT_MATRIX\PROJECT_MATRIX\PROJECT_MATRIX\Source.cpp(442,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PROJECT_MATRIX.vcxproj -> D:\RTR\PROJECT_MATRIX\PROJECT_MATRIX\Debug\PROJECT_MATRIX.exe

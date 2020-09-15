@@ -1,0 +1,9 @@
+
+#include "room_scene0_water_wave.h"
+
+CUBE_MAP_RIGHT		BITMAP		"..\\..\\MEDIA\\images\\right.bmp"
+CUBE_MAP_LEFT		BITMAP		"..\\..\\MEDIA\\images\\left.bmp"
+CUBE_MAP_BOTTOM		BITMAP		"..\\..\\MEDIA\\images\\bottom.bmp"
+CUBE_MAP_TOP		BITMAP		"..\\..\\MEDIA\\images\\top.bmp"
+CUBE_MAP_FRONT		BITMAP		"..\\..\\MEDIA\\images\\front.bmp"
+CUBE_MAP_BACK		BITMAP		"..\\..\\MEDIA\\images\\back.bmp"

@@ -1,0 +1,10 @@
+^C:\BULLET3-2.89\SRC\BULLET3GEOMETRY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/bullet3-2.89 -BC:/bullet3-2.89 --check-stamp-file C:/bullet3-2.89/src/Bullet3Geometry/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

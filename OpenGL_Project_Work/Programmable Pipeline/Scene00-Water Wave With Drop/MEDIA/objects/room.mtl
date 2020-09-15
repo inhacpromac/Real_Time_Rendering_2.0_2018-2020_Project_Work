@@ -1,0 +1,218 @@
+# Blender MTL File: 'classroom.blend'
+# Material Count: 19
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl LAMPZHAO
+Ns 13.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.937300 0.937300 0.937300
+Ks 0.150000 0.150000 0.150000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl beigePaint
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.523833 0.459638 0.322535
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl beigePaintedPlastic
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.396755 0.376262 0.283149
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl beigePaintedwood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.208637 0.198069 0.174647
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl beigeWall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.267068 0.267068 0.267068
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+map_Ka .\MEDIA\images\base_wallPaint.dds
+
+newmtl beige_paintedPipe
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.523833 0.459638 0.322535
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl ceilingAirVent
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.291771 0.274677 0.208637
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\ceilingAirVent_AO.dds
+
+newmtl dayLight_portal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.827557 0.827557 0.827557
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl frostedGlass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_frostedGlass.dds
+
+newmtl greyDiffusePaint
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.088902 0.077378 0.052554
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+
+newmtl paintedBlind
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl paintedCeiling
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.318547 0.318547 0.318547
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+//map_Ka .\MEDIA\images\base_wallPaint.dds
+//map_Ks .\MEDIA\images\ceiling_AO.dds
+
+
+newmtl plaster
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl porcelainHandle
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl radiator_glossyPaint
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.389089 0.335360 0.220081
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl varnishedWoodDoor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.386430 0.371238 0.318547
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_paintedPlasterWall.dds
+map_Ka .\MEDIA\images\base_brightWood.dds
+
+newmtl whitePaintedWindow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.318547 0.318547 0.318547
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl woodFloor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.214041 0.214041 0.214041
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\base_woodFloor.dds
+
+newmtl woodPlanks
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.318547 0.297928 0.188715
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .\MEDIA\images\woodPlanks.dds
