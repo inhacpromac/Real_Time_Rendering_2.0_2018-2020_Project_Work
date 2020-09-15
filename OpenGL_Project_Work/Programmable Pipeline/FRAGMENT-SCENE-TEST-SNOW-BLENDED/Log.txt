@@ -1,0 +1,605 @@
+Log file is Sucessfully created 
+
+Entering - LoadObjModels(void)
+	Entering - LoadObj(std::string file, int index)
+	File ./MEDIA/objects/room.obj
+	mtllib detected : room.mtl
+		Entering - ReadMTL(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+		Exitting - FindOrAddTexture(std::string file)
+		Eentering - FindOrAddTexture(std::string file)
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+		Exitting - FindOrAddTexture(std::string file)
+		Exitting - ReadMTL(std::string file)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : frostedGlass
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : porcelainHandle
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : porcelainHandle
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedPlastic
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beige_paintedPipe
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : woodPlanks
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : woodPlanks
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : woodPlanks
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : radiator_glossyPaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : radiator_glossyPaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : radiator_glossyPaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : porcelainHandle
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : porcelainHandle
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedwood
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beige_paintedPipe
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : dayLight_portal
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : whitePaintedWindow
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beige_paintedPipe
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : greyDiffusePaint
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : woodFloor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : ceilingAirVent
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedPlastic
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedPlastic
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigePaintedPlastic
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : beigeWall
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : plaster
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedCeiling
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : varnishedWoodDoor
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : (null)
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material (null)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : None
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : paintedBlind
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : GOLD1
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material GOLD1
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : BLACK_PLSTC
+		Eenteing - FindOrAddMaterial(const std::string& name)
+			FindOrAddMaterial(): can't find material BLACK_PLSTC
+		Exitting - FindOrAddMaterial(const std::string& name)
+	usemtl : LAMPZHAO
+		Eenteing - FindOrAddMaterial(const std::string& name)
+		Exitting - FindOrAddMaterial(const std::string& name)
+	Exitting - LoadObj(std::string file, int index)
+Exitting - LoadObjModels(void)
+
+obj Models Loaded Successfully.
+Total Triangle Count - 169377
+PrepareRoomScene0_ps Error Index : 0
+PrepareRoomScene0_ps Error Index : 1
+PrepareRoomScene0_ps Error Index : 2
+PrepareRoomScene0_ps Error Index : 3
+PrepareRoomScene0_ps Error Index : 4
+PrepareRoomScene0_ps Error Index : 5
+PrepareRoomScene0_ps Error Index : 6
+PrepareRoomScene0_ps Error Index : 7
+PrepareRoomScene0_ps Error Index : 8
+PrepareRoomScene0_ps Error Index : 9
+PrepareRoomScene0_ps Error Index : 10
+PrepareRoomScene0_ps Error Index : 11
+PrepareRoomScene0_ps cudaGraphicsGLRegisterBuffer Error Index : 12 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosition) Error Index : 13 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosition) Error Index : 14 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosDir) Error Index : 15 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosDir) Error Index : 16 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosDirInitial) Error Index : 17 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosDirInitial) Error Index : 18 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosGravity) Error Index : 19 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosGravity) Error Index : 20 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosFade) Error Index : 21 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosFade) Error Index : 22 : cudaSuccess
+PrepareRoomScene0_ps cudaMalloc(gpGpuPosLife) Error Index : 23 : cudaSuccess
+PrepareRoomScene0_ps cudaMemcpy(gpGpuPosLife) Error Index : 24 : cudaSuccess
+			Eentering - LoadTexture(const char *szFilename)
+				Eentering - *LoadDDS(const char *file, ImageInfoDDS &info)
+				Exitting - *LoadDDS(const char *file, ImageInfoDDS &info)
+			Exitting - LoadTexture(const char *szFilename)
+PrepareRoomScene0_ps Error Index : 25 : TexId : 7 
+PrepareRoomScene0_ps Error Index : 26
+GL_TEXTURE_2D
+Initialization Sucessfull !n

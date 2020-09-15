@@ -1,0 +1,1416 @@
+Model Index 0
+mtllib detected : room.mtl
+Total Groups       : 176
+Vertices           : 88734	Total Vertices    (Vertices  * 3 x y z) : 266202
+Texcoords          : 92315	Total Texcoords   (Texcoords * 2 u v)   : 184630
+Normals            : 65450	Total Normals     (Normals   * 3 x y z) : 196350
+Total Triangles    : 169377	Total Indices     (Total Triangles * 3) : 508131
+-------------------------------------------
+	Group Index        : 1
+	Group Name         : door_window_Cube.003
+	Triangles          : 576
+	Material Index     : 17
+	Stride             : 0
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 2
+	Group Name         : Box309.002
+	Triangles          : 12
+	Material Index     : 10
+	Stride             : 576
+	usemtl             : frostedGlass
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 3
+	Group Name         : wall.011_Box21.002
+	Triangles          : 58
+	Material Index     : 17
+	Stride             : 588
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 4
+	Group Name         : doorFrame_Box318
+	Triangles          : 184
+	Material Index     : 17
+	Stride             : 646
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 5
+	Group Name         : porte.001_Plane.009
+	Triangles          : 0
+	Material Index     : 17
+	Stride             : 830
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 6
+	Group Name         : Rectangle02.005_Rectangle02.001
+	Triangles          : 270
+	Material Index     : 5
+	Stride             : 830
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 7
+	Group Name         : Cube.027_Cube.002
+	Triangles          : 1920
+	Material Index     : 15
+	Stride             : 1100
+	usemtl             : porcelainHandle
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 8
+	Group Name         : Cube.026_Cube.002
+	Triangles          : 1920
+	Material Index     : 15
+	Stride             : 3020
+	usemtl             : porcelainHandle
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 9
+	Group Name         : Line291.005_Line291.001
+	Triangles          : 202
+	Material Index     : 5
+	Stride             : 4940
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 10
+	Group Name         : Rectangle02.004_Rectangle02.001
+	Triangles          : 270
+	Material Index     : 5
+	Stride             : 5142
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 11
+	Group Name         : Line291.004_Line291
+	Triangles          : 202
+	Material Index     : 5
+	Stride             : 5412
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 12
+	Group Name         : Rectangle018.002_Rectangle018
+	Triangles          : 206
+	Material Index     : 5
+	Stride             : 5614
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 13
+	Group Name         : Box25.002_Box25
+	Triangles          : 1468
+	Material Index     : 17
+	Stride             : 5820
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 14
+	Group Name         : wallSwitch_ChamferBox03.003
+	Triangles          : 1038
+	Material Index     : 4
+	Stride             : 7288
+	usemtl             : beigePaintedPlastic
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 15
+	Group Name         : ceilingMoulding_Plane.036
+	Triangles          : 462
+	Material Index     : 3
+	Stride             : 8326
+	usemtl             : beigePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 16
+	Group Name         : verticalPipe_Circle.004
+	Triangles          : 352
+	Material Index     : 7
+	Stride             : 8788
+	usemtl             : beige_paintedPipe
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 17
+	Group Name         : woodBaseboard_Box19.004
+	Triangles          : 356
+	Material Index     : 20
+	Stride             : 9140
+	usemtl             : woodPlanks
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 18
+	Group Name         : woodBase_Box08.002
+	Triangles          : 164
+	Material Index     : 20
+	Stride             : 9496
+	usemtl             : woodPlanks
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 19
+	Group Name         : plank_Box20.001
+	Triangles          : 2096
+	Material Index     : 20
+	Stride             : 9660
+	usemtl             : woodPlanks
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 20
+	Group Name         : wall.001_Box18.002
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 11756
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 21
+	Group Name         : wall.002_Box18.002
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 11768
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 22
+	Group Name         : wall.003_Box18.002
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 11780
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 23
+	Group Name         : focus_Circle
+	Triangles          : 0
+	Material Index     : 6
+	Stride             : 11792
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 24
+	Group Name         : ChamferBox065.001
+	Triangles          : 15312
+	Material Index     : 16
+	Stride             : 11792
+	usemtl             : radiator_glossyPaint
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 25
+	Group Name         : ChamferBox065.001.000
+	Triangles          : 15312
+	Material Index     : 16
+	Stride             : 27104
+	usemtl             : radiator_glossyPaint
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 26
+	Group Name         : ChamferBox065.001.001
+	Triangles          : 15312
+	Material Index     : 16
+	Stride             : 42416
+	usemtl             : radiator_glossyPaint
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 27
+	Group Name         : porte_Plane.009
+	Triangles          : 0
+	Material Index     : 16
+	Stride             : 57728
+	usemtl             : radiator_glossyPaint
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 28
+	Group Name         : Box25.001_Box25
+	Triangles          : 1468
+	Material Index     : 17
+	Stride             : 57728
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 29
+	Group Name         : Rectangle018.001_Rectangle018
+	Triangles          : 206
+	Material Index     : 5
+	Stride             : 59196
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 30
+	Group Name         : Line291.003_Line291
+	Triangles          : 202
+	Material Index     : 5
+	Stride             : 59402
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 31
+	Group Name         : Rectangle02.003_Rectangle02.001
+	Triangles          : 270
+	Material Index     : 5
+	Stride             : 59604
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 32
+	Group Name         : Line291.002_Line291.001
+	Triangles          : 202
+	Material Index     : 5
+	Stride             : 59874
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 33
+	Group Name         : Cube.025_Cube.002
+	Triangles          : 1920
+	Material Index     : 15
+	Stride             : 60076
+	usemtl             : porcelainHandle
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 34
+	Group Name         : Cube.024_Cube.002
+	Triangles          : 1920
+	Material Index     : 15
+	Stride             : 61996
+	usemtl             : porcelainHandle
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 35
+	Group Name         : Rectangle02.002_Rectangle02.001
+	Triangles          : 270
+	Material Index     : 5
+	Stride             : 63916
+	usemtl             : beigePaintedwood
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 36
+	Group Name         : pipe_Line208
+	Triangles          : 7416
+	Material Index     : 7
+	Stride             : 64186
+	usemtl             : beige_paintedPipe
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 37
+	Group Name         : hallWindow_Box321.002
+	Triangles          : 4
+	Material Index     : 9
+	Stride             : 71602
+	usemtl             : dayLight_portal
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 38
+	Group Name         : wall.004_Box18.002
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 71606
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 39
+	Group Name         : woodWindow.001_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 71618
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 40
+	Group Name         : woodWindow_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 72158
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 41
+	Group Name         : woodWindow.002_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 72698
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 42
+	Group Name         : woodWindow.003_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 73238
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 43
+	Group Name         : woodWindow.004_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 73778
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 44
+	Group Name         : woodWindow.005_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 74318
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 45
+	Group Name         : woodWindow.006_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 74858
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 46
+	Group Name         : woodWindow.007_Rectangle7.001
+	Triangles          : 540
+	Material Index     : 18
+	Stride             : 75398
+	usemtl             : whitePaintedWindow
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 47
+	Group Name         : pipe.001_Line208.001
+	Triangles          : 7416
+	Material Index     : 7
+	Stride             : 75938
+	usemtl             : beige_paintedPipe
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 48
+	Group Name         : wall.005_Box343
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 83354
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 49
+	Group Name         : wall.006_Box342
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 83366
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 50
+	Group Name         : wall.007_Box12
+	Triangles          : 8
+	Material Index     : 6
+	Stride             : 83378
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 51
+	Group Name         : wall.008_Box13
+	Triangles          : 140
+	Material Index     : 6
+	Stride             : 83386
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 52
+	Group Name         : ceiling_pipeHang_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 83526
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 53
+	Group Name         : ceiling_pipeHang.015_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 85234
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 54
+	Group Name         : ceiling_pipeHang.001_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 86942
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 55
+	Group Name         : ceiling_pipeHang.002_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 88650
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 56
+	Group Name         : ceiling_pipeHang.003_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 90358
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 57
+	Group Name         : ceiling_pipeHang.004_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 92066
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 58
+	Group Name         : ceiling_pipeHang.005_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 93774
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 59
+	Group Name         : ceiling_pipeHang.006_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 95482
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 60
+	Group Name         : ceiling_pipeHang.007_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 97190
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 61
+	Group Name         : doorFrame.001_Box318
+	Triangles          : 184
+	Material Index     : 17
+	Stride             : 98898
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 62
+	Group Name         : ceiling_pipeHang.008_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 99082
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 63
+	Group Name         : ceiling_pipeHang.009_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 100790
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 64
+	Group Name         : ceiling_pipeHang.010_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 102498
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 65
+	Group Name         : ceiling_pipeHang.011_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 104206
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 66
+	Group Name         : ceiling_pipeHang.012_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 105914
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 67
+	Group Name         : ceiling_pipeHang.013_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 107622
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 68
+	Group Name         : ceiling_pipeHang.014_Line223
+	Triangles          : 1708
+	Material Index     : 11
+	Stride             : 109330
+	usemtl             : greyDiffusePaint
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 69
+	Group Name         : ceilingAirVent.005_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 111038
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 70
+	Group Name         : ceilingAirVent_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 114462
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 71
+	Group Name         : ceilingAirVent.001_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 117886
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 72
+	Group Name         : ceilingAirVent.002_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 121310
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 73
+	Group Name         : ceilingAirVent.003_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 124734
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 74
+	Group Name         : sol_Plane01
+	Triangles          : 2
+	Material Index     : 19
+	Stride             : 128158
+	usemtl             : woodFloor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 75
+	Group Name         : ceilingAirVent.004_Line06
+	Triangles          : 3424
+	Material Index     : 8
+	Stride             : 128160
+	usemtl             : ceilingAirVent
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 76
+	Group Name         : wall.012_Box23
+	Triangles          : 12
+	Material Index     : 6
+	Stride             : 131584
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 77
+	Group Name         : wall_Box21
+	Triangles          : 44
+	Material Index     : 6
+	Stride             : 131596
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 78
+	Group Name         : wall.009_Box321
+	Triangles          : 44
+	Material Index     : 1
+	Stride             : 131640
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 79
+	Group Name         : wallPlug.001_prise
+	Triangles          : 948
+	Material Index     : 4
+	Stride             : 131684
+	usemtl             : beigePaintedPlastic
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 80
+	Group Name         : wallPlug_prise
+	Triangles          : 948
+	Material Index     : 4
+	Stride             : 132632
+	usemtl             : beigePaintedPlastic
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 81
+	Group Name         : wallPlug.002_prise
+	Triangles          : 948
+	Material Index     : 4
+	Stride             : 133580
+	usemtl             : beigePaintedPlastic
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 82
+	Group Name         : wall.010_Box07
+	Triangles          : 4
+	Material Index     : 6
+	Stride             : 134528
+	usemtl             : beigeWall
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 83
+	Group Name         : ceiling_Box22.007
+	Triangles          : 20
+	Material Index     : 14
+	Stride             : 134532
+	usemtl             : plaster
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 84
+	Group Name         : beams_Box22.006
+	Triangles          : 1734
+	Material Index     : 13
+	Stride             : 134552
+	usemtl             : paintedCeiling
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 85
+	Group Name         : door_window.001_Cube.005
+	Triangles          : 576
+	Material Index     : 17
+	Stride             : 136286
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 86
+	Group Name         : venitianBlind.001_Plane.002
+	Triangles          : 0
+	Material Index     : 17
+	Stride             : 136862
+	usemtl             : varnishedWoodDoor
+	Has map Kd         : 0
+	-----------------------
+	Group Index        : 87
+	Group Name         : Cylinder.055_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 136862
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 88
+	Group Name         : Cube.019_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 136958
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 89
+	Group Name         : Cube.018_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137002
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 90
+	Group Name         : Cylinder.054_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137046
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 91
+	Group Name         : Cylinder.053_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137058
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 92
+	Group Name         : Cylinder.052_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137070
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 93
+	Group Name         : Cylinder.051_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137082
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 94
+	Group Name         : Cylinder.050_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137094
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 95
+	Group Name         : Cylinder.049_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137106
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 96
+	Group Name         : venitianBlind.002_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 137118
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 97
+	Group Name         : Cube.016_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137118
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 98
+	Group Name         : Cylinder.048_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137162
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 99
+	Group Name         : Cylinder.047_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137174
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 100
+	Group Name         : Cylinder.046_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137186
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 101
+	Group Name         : Cylinder.045_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137198
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 102
+	Group Name         : Cylinder.044_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137210
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 103
+	Group Name         : Cylinder.043_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137222
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 104
+	Group Name         : Cube.015_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137234
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 105
+	Group Name         : Cylinder.042_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 137278
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 106
+	Group Name         : venitianBlind.003_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 137374
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 107
+	Group Name         : Cylinder.041_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 137374
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 108
+	Group Name         : Cube.013_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137470
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 109
+	Group Name         : Cube.012_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137514
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 110
+	Group Name         : Cylinder.040_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137558
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 111
+	Group Name         : Cylinder.039_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137570
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 112
+	Group Name         : Cylinder.038_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137582
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 113
+	Group Name         : Cylinder.037_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137594
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 114
+	Group Name         : Cylinder.036_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137606
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 115
+	Group Name         : Cylinder.035_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137618
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 116
+	Group Name         : venitianBlind.004_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 137630
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 117
+	Group Name         : Cube.010_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137630
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 118
+	Group Name         : Cylinder.034_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137674
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 119
+	Group Name         : Cylinder.033_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137686
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 120
+	Group Name         : Cylinder.032_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137698
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 121
+	Group Name         : Cylinder.031_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137710
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 122
+	Group Name         : Cylinder.030_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137722
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 123
+	Group Name         : Cylinder.029_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 137734
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 124
+	Group Name         : Cube.009_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137746
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 125
+	Group Name         : Cylinder.028_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 137790
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 126
+	Group Name         : venitianBlind.005_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 137886
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 127
+	Group Name         : Cylinder.027_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 137886
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 128
+	Group Name         : Cube.007_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 137982
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 129
+	Group Name         : Cube.006_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 138026
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 130
+	Group Name         : Cylinder.026_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138070
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 131
+	Group Name         : Cylinder.025_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138082
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 132
+	Group Name         : Cylinder.024_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138094
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 133
+	Group Name         : Cylinder.023_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138106
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 134
+	Group Name         : Cylinder.022_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138118
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 135
+	Group Name         : Cylinder.021_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138130
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 136
+	Group Name         : venitianBlind.006_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 138142
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 137
+	Group Name         : Cube.004_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 138142
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 138
+	Group Name         : Cylinder.020_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138186
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 139
+	Group Name         : Cylinder.019_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138198
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 140
+	Group Name         : Cylinder.018_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138210
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 141
+	Group Name         : Cylinder.017_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138222
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 142
+	Group Name         : Cylinder.016_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138234
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 143
+	Group Name         : Cylinder.015_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138246
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 144
+	Group Name         : Cube.003_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 138258
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 145
+	Group Name         : Cylinder.014_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 138302
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 146
+	Group Name         : venitianBlind.007_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 138398
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 147
+	Group Name         : Cylinder.007_Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 138398
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 148
+	Group Name         : Cube.001_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 138494
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 149
+	Group Name         : Cube.000_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 138538
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 150
+	Group Name         : Cylinder.013_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138582
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 151
+	Group Name         : Cylinder.012_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138594
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 152
+	Group Name         : Cylinder.011_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138606
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 153
+	Group Name         : Cylinder.010_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138618
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 154
+	Group Name         : Cylinder.009_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138630
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 155
+	Group Name         : Cylinder.008_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 138642
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 156
+	Group Name         : venitianBlind_Plane.002
+	Triangles          : 0
+	Material Index     : 1
+	Stride             : 138654
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 157
+	Group Name         : Cube.020_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 138654
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 158
+	Group Name         : Cube.017_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 140630
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 159
+	Group Name         : Cube.014_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 142606
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 160
+	Group Name         : Cube.011_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 144582
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 161
+	Group Name         : Cube.008_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 146558
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 162
+	Group Name         : Cube.005_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 148534
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 163
+	Group Name         : Cube.002_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 150510
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 164
+	Group Name         : Cube.032_Cube.001
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 152486
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 165
+	Group Name         : Cube.034_Cube.000
+	Triangles          : 44
+	Material Index     : 0
+	Stride             : 152530
+	usemtl             : 
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 166
+	Group Name         : Cylinder.006
+	Triangles          : 96
+	Material Index     : 1
+	Stride             : 152574
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 167
+	Group Name         : Cylinder.002_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152670
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 168
+	Group Name         : Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152682
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 169
+	Group Name         : Cylinder.001_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152694
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 170
+	Group Name         : Cylinder.003_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152706
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 171
+	Group Name         : Cylinder.004_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152718
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 172
+	Group Name         : Cylinder.005_Cylinder.000
+	Triangles          : 12
+	Material Index     : 1
+	Stride             : 152730
+	usemtl             : None
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 173
+	Group Name         : Cube.021_Cube.004
+	Triangles          : 1976
+	Material Index     : 12
+	Stride             : 152742
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 174
+	Group Name         : store_UpDown_Plane.003
+	Triangles          : 0
+	Material Index     : 12
+	Stride             : 154718
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 175
+	Group Name         : venetianBlind_rotation_Circle.001
+	Triangles          : 0
+	Material Index     : 12
+	Stride             : 154718
+	usemtl             : paintedBlind
+	Has map Kd         : 1
+	-----------------------
+	Group Index        : 176
+	Group Name         : lampgan04
+	Triangles          : 14658
+	Material Index     : 2
+	Stride             : 154718
+	usemtl             : LAMPZHAO
+	Has map Kd         : 0
+	----------------

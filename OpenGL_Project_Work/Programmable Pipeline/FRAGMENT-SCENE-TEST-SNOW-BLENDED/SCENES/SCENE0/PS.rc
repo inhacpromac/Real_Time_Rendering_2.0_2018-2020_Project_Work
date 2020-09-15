@@ -1,0 +1,5 @@
+#pragma once
+#include "resource.h"
+
+ID_BITMAP_POINT		BITMAP		"..\..\MEDIA\images\point.bmp"
+

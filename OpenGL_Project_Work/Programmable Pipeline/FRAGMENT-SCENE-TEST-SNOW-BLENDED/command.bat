@@ -1,0 +1,3 @@
+nvcc.exe -c -o .\SCENES\SCENE0\PS_GPU.obj .\SCENES\SCENE0\PS_GPU.cu
+rc.exe .\SCENES\SCENE0\PS.rc
+cl.exe /EHsc /I .\include\glew\include /I "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include" /I "C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2\common\inc" main.cpp /link .\SCENES\SCENE0\PS_GPU.obj .\SCENES\SCENE0\PS.res user32.lib gdi32.lib kernel32.lib /LIBPATH:.\include\glew\lib\Release\x64 /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\lib\x64" glew32.lib /SUBSYSTEM:WINDOWS
